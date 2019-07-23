@@ -1,4 +1,2 @@
-# game-solver-the-ultimate-tic-tac-bros
-game-solver-the-ultimate-tic-tac-bros created by GitHub Classroom
+# game-solver-ultimate-tic-tac-toe-shubhankar-singh
 
-Names: Ryan Mayse, Yusuf Khan, Shubhankar Singh, Samuel Vincent
